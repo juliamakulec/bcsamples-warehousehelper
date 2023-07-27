@@ -28,5 +28,10 @@
     "environmentName": "Sandbox",
     "companyId": "1536b51a-7d00-ee11-8f75-6045bdacccd6",
     "ppEnvironmentUrl": "https://org82a94bff.crm.dynamics.com/"
+  },
+  "DeployToOwO": {
+    "environmentName": "Production",
+    "companyId": "2ea52f0b-4219-ee11-9cc4-6045bdc8a349",
+    "ppEnvironmentUrl": "https://org19399eb4.crm.dynamics.com/"
   }
 }
