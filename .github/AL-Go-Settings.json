@@ -3,10 +3,7 @@
   "templateUrl": "https://github.com/Microsoft/AL-Go-PTE@PPPreview",
   "powerPlatformSolutionFolder": "WarehouseHelper",
   "environments": [
-    "Dev (Production)",
-    "UX (Production)", 
-    "Staging",
-    "BcTechDays (Production)"
+    "OwO"
   ],
   "DeployToOwO": {
     "environmentName": "Production",
